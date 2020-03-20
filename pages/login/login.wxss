@@ -1,0 +1,26 @@
+.inputFrom{
+	width:90%;
+	height:150px;
+	border:2px solid #f4f4f4;
+	border-radius:20px;
+	position:relative;
+	/* background:green; */
+}
+.content{
+	position: relative;
+	height:90px;
+	background:red;
+	border-bottom:1px solid #DDDDDD;
+	line-height:90px;
+	padding:20px;
+	
+}
+.lgBtn{
+	margin-top:10px;
+	position:absolute;
+	right:20px;
+}
+.van-button{
+	width:100px;
+	color:#c0c0c0;
+}
